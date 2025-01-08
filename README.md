@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I'm a **backend developer** and **creative coder**
 
 ## 🚀 About Me
 - 🔭 **Currently working on**:  
-  Building an engaging portfolio website and creating innovative 2D games in **Unity** and **p5.js**.
+  Building an engaging portfolio website and creating innovative games in **Unity** and a collision detection system in **p5.js**.
   
 - 🌱 **Learning**:  
-  Enhancing my skills in **Java Spring Boot**, **React**, and **game physics systems**.
+  Enhancing my skills in **Java Spring Boot**, **React**, and **Game Physics Systems**.
 
 - 💡 **Interests**:  
   - Computational Geometry  
@@ -18,17 +18,17 @@ Welcome to my GitHub profile! I'm a **backend developer** and **creative coder**
   - Web Development
 
 - ⚡ **Fun Fact**:  
-  I'm a Node.js developer who ventured into Java and ended up liking its structured approach—sometimes. 😄
+  I'm a Node.js developer who ventured into Java and ended up liking its structured approach(sometimes!). 😄
 
 ---
 
 ## 🛠️ Technologies & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
 ![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=white)  
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
 And many more...
 
@@ -37,16 +37,18 @@ And many more...
 ## ✨ Featured Projects
 Here are some of my favorite projects:
 
-### 🎮 **[Car Racing Game](https://github.com/js313/car-racing-game)**
-An exciting Unity game with ramps and physics-based mechanics.  
+### 🎮 **[Car Racing Game](https://github.com/js313/party-kart)**
+An exciting Unity game with ramps and physics-based mechanics, that let's you race against ***"AI"***.  
 
-### 🖌️ **[Creative Coding](https://github.com/js313/creative-coding)**
+### 🖌️ **[Creative Coding](https://github.com/js313/p5-sketches)**
 A collection of interactive and artistic coding experiments using p5.js.  
 
 ### 🌐 **[Portfolio Website](https://github.com/js313/portfolio)**
 A modern, responsive portfolio built with **React** and **Java Spring Boot**.  
 
 Check out more of my work in the **[Projects](https://github.com/js313?tab=repositories)** section!
+
+Check out my **[LeetCode](https://www.leetcode.com/JS00)** too!
 
 ---
 
@@ -56,9 +58,8 @@ I'm currently working on a **2D collision system for random polygons** in p5.js 
 ---
 
 ## 📫 Let's Connect
-- **Email**: [jeenit.sharma@example.com](mailto:jeenit.sharma@example.com)  
-- **LinkedIn**: [Jeenit Sharma](https://linkedin.com/in/jeenitsharma)  
-- **Twitter**: [@jeenitsharma](https://twitter.com/jeenitsharma)  
+- **Email**: [sharmajeenit2000@gmail.com](mailto:sharmajeenit2000@gmail.com)  
+- **LinkedIn**: [Jeenit Sharma](https://linkedin.com/in/jeenit-sharma)  
 
 ---
 
