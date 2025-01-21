@@ -55,7 +55,7 @@ Check out my **[LeetCode](https://www.leetcode.com/JS00)** too!
 ---
 
 ## 🏗️ Work in Progress
-I'm currently working on a **2D collision system for random polygons** in p5.js for **#genuary25**. Stay tuned for updates!
+I'm currently working on a 2D physics engine for random polygons. A rough initial version is done using p5.js, and I’ll be optimizing it further. Check it out here: **[Github - p5-sketches/collisions](https://github.com/js313/p5-sketches/tree/main/collisions)**
 
 ---
 
