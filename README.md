@@ -1,12 +1,12 @@
 # Hi there, I'm Jeenit Sharma 👋  
 
-Welcome to my GitHub profile! I'm a **backend developer** and **creative coder** passionate about turning ideas into reality. Here, you'll find a collection of my projects, experiments, and contributions, spanning across **game development**, **web development**, and **creative coding**.
+Welcome to my GitHub profile! I'm a **backend developer** and **creative coder** passionate about turning ideas into reality. Here, you'll find a collection of my projects, and experiments, spanning across **game development**, **web development**, and whatever I feel like making.
 
 ---
 
 ## 🚀 About Me
 - 🔭 **Currently working on**:  
-  Building an engaging portfolio website and creating innovative games in **Unity** and a collision detection system in **p5.js**.
+  Building a terminal text editor and creating a Vector inspired game in **Unity** and a collision detection system in **C++** and **SDL2**.
   
 - 🌱 **Learning**:  
   Enhancing my skills in **Java Spring Boot**, **React**, and **Game Physics Systems**.
@@ -16,9 +16,6 @@ Welcome to my GitHub profile! I'm a **backend developer** and **creative coder**
   - Creative Coding  
   - Game Development (Unity & Godot)  
   - Web Development
-
-- ⚡ **Fun Fact**:  
-  I'm a Node.js developer who ventured into Java and ended up liking its structured approach(sometimes!). 😄
 
 ---
 
@@ -55,7 +52,8 @@ Check out my **[LeetCode](https://www.leetcode.com/JS00)** too!
 ---
 
 ## 🏗️ Work in Progress
-I'm currently working on a 2D physics engine for random polygons. A rough initial version is done using p5.js, and I’ll be optimizing it further. Check it out here: **[Github - p5-sketches/collisions](https://github.com/js313/p5-sketches/tree/main/collisions)**
+- I'm currently working on a 2D physics engine for random polygons using C++. Check it out here: **[Github - 2dphysics-cpp](https://github.com/js313/2dphysics-cpp)**
+- Also building a terminal text editor like Vim with C following **[this](https://viewsourcecode.org/snaptoken/kilo/index.html)** tutorial.
 
 ---
 
